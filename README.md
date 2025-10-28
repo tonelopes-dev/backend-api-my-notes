@@ -1,6 +1,6 @@
 # MyAppNotes - Flash Card Notes
 
-![App Screenshot](/public/print-banner.png)
+![App Screenshot](https://tone-monte-portfolio-v3.s3.us-east-1.amazonaws.com/projects/1758298652896-jmq083-banner-my-notes.png)
 
 ## 📌 Visão Geral
 
